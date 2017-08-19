@@ -1,3 +1,9 @@
 [submodule "mxnet"]
 	path = mxnet
 	url = https://github.com/qingzhouzhen/mxnet
+[submodule "pvanet-mxnet"]
+	path = pvanet-mxnet
+	url = https://github.com/qingzhouzhen/pvanet-mxnet.git
+[submodule "incubator-mxnet"]
+	path = incubator-mxnet
+	url = https://github.com/qingzhouzhen/incubator-mxnet.git
